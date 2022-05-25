@@ -24,5 +24,5 @@
 
 ## Contacts
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhjun07@gmail.com)](mailto:jhjun07@gmail.com) <a href="https://www.instagram.com/junny.pic_"> [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/junny.pic_](https://www.instagram.com/junny.pic_)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhjun07@gmail.com)](mailto:jhjun07@gmail.com) <a href="https://www.instagram.com/junny.pic_"> <a href="https://www.instagram.com/junny.pic_"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?&style=flat-square&logo=Instagram&logoColor=white"></a>
 
