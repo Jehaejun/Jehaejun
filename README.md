@@ -3,8 +3,9 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJehaejun&count_bg=%235FB7F1&title_bg=%237A7777&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jehaejun&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehaejun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jehaejun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
